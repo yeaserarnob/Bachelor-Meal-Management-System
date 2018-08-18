@@ -1,0 +1,7 @@
+C:\Users\Shams Bin Sohrab\Documents\Visual Studio 2017\Projects\ADBMS\OracleRepository\bin\Debug\OracleRepository.dll.config
+C:\Users\Shams Bin Sohrab\Documents\Visual Studio 2017\Projects\ADBMS\OracleRepository\bin\Debug\OracleRepository.dll
+C:\Users\Shams Bin Sohrab\Documents\Visual Studio 2017\Projects\ADBMS\OracleRepository\bin\Debug\OracleRepository.pdb
+C:\Users\Shams Bin Sohrab\Documents\Visual Studio 2017\Projects\ADBMS\OracleRepository\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Shams Bin Sohrab\Documents\Visual Studio 2017\Projects\ADBMS\OracleRepository\obj\Debug\OracleRepository.csprojResolveAssemblyReference.cache
+C:\Users\Shams Bin Sohrab\Documents\Visual Studio 2017\Projects\ADBMS\OracleRepository\obj\Debug\OracleRepository.dll
+C:\Users\Shams Bin Sohrab\Documents\Visual Studio 2017\Projects\ADBMS\OracleRepository\obj\Debug\OracleRepository.pdb

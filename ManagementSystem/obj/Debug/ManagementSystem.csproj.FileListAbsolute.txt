@@ -1,0 +1,138 @@
+c:\users\shams bin sohrab\documents\visual studio 2017\Projects\ADBMS\ManagementSystem\bin\ApplicationInsights.config
+c:\users\shams bin sohrab\documents\visual studio 2017\Projects\ADBMS\ManagementSystem\bin\roslyn\csc.exe
+c:\users\shams bin sohrab\documents\visual studio 2017\Projects\ADBMS\ManagementSystem\bin\roslyn\csc.exe.config
+c:\users\shams bin sohrab\documents\visual studio 2017\Projects\ADBMS\ManagementSystem\bin\roslyn\csc.rsp
+c:\users\shams bin sohrab\documents\visual studio 2017\Projects\ADBMS\ManagementSystem\bin\roslyn\csi.exe
+c:\users\shams bin sohrab\documents\visual studio 2017\Projects\ADBMS\ManagementSystem\bin\roslyn\csi.rsp
+c:\users\shams bin sohrab\documents\visual studio 2017\Projects\ADBMS\ManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\shams bin sohrab\documents\visual studio 2017\Projects\ADBMS\ManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\shams bin sohrab\documents\visual studio 2017\Projects\ADBMS\ManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\shams bin sohrab\documents\visual studio 2017\Projects\ADBMS\ManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\shams bin sohrab\documents\visual studio 2017\Projects\ADBMS\ManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\shams bin sohrab\documents\visual studio 2017\Projects\ADBMS\ManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\shams bin sohrab\documents\visual studio 2017\Projects\ADBMS\ManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\shams bin sohrab\documents\visual studio 2017\Projects\ADBMS\ManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\shams bin sohrab\documents\visual studio 2017\Projects\ADBMS\ManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\shams bin sohrab\documents\visual studio 2017\Projects\ADBMS\ManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\shams bin sohrab\documents\visual studio 2017\Projects\ADBMS\ManagementSystem\bin\roslyn\System.AppContext.dll
+c:\users\shams bin sohrab\documents\visual studio 2017\Projects\ADBMS\ManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+c:\users\shams bin sohrab\documents\visual studio 2017\Projects\ADBMS\ManagementSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\shams bin sohrab\documents\visual studio 2017\Projects\ADBMS\ManagementSystem\bin\roslyn\System.IO.FileSystem.dll
+c:\users\shams bin sohrab\documents\visual studio 2017\Projects\ADBMS\ManagementSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\shams bin sohrab\documents\visual studio 2017\Projects\ADBMS\ManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\shams bin sohrab\documents\visual studio 2017\Projects\ADBMS\ManagementSystem\bin\roslyn\vbc.exe
+c:\users\shams bin sohrab\documents\visual studio 2017\Projects\ADBMS\ManagementSystem\bin\roslyn\vbc.exe.config
+c:\users\shams bin sohrab\documents\visual studio 2017\Projects\ADBMS\ManagementSystem\bin\roslyn\vbc.rsp
+c:\users\shams bin sohrab\documents\visual studio 2017\Projects\ADBMS\ManagementSystem\bin\roslyn\VBCSCompiler.exe
+c:\users\shams bin sohrab\documents\visual studio 2017\Projects\ADBMS\ManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+c:\users\shams bin sohrab\documents\visual studio 2017\Projects\ADBMS\ManagementSystem\bin\ManagementSystem.dll.config
+c:\users\shams bin sohrab\documents\visual studio 2017\Projects\ADBMS\ManagementSystem\bin\ManagementSystem.dll
+c:\users\shams bin sohrab\documents\visual studio 2017\Projects\ADBMS\ManagementSystem\bin\ManagementSystem.pdb
+c:\users\shams bin sohrab\documents\visual studio 2017\Projects\ADBMS\ManagementSystem\bin\Antlr3.Runtime.dll
+c:\users\shams bin sohrab\documents\visual studio 2017\Projects\ADBMS\ManagementSystem\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\shams bin sohrab\documents\visual studio 2017\Projects\ADBMS\ManagementSystem\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\shams bin sohrab\documents\visual studio 2017\Projects\ADBMS\ManagementSystem\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\shams bin sohrab\documents\visual studio 2017\Projects\ADBMS\ManagementSystem\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\shams bin sohrab\documents\visual studio 2017\Projects\ADBMS\ManagementSystem\bin\Microsoft.AI.Web.dll
+c:\users\shams bin sohrab\documents\visual studio 2017\Projects\ADBMS\ManagementSystem\bin\Microsoft.AI.WindowsServer.dll
+c:\users\shams bin sohrab\documents\visual studio 2017\Projects\ADBMS\ManagementSystem\bin\Microsoft.ApplicationInsights.dll
+c:\users\shams bin sohrab\documents\visual studio 2017\Projects\ADBMS\ManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\shams bin sohrab\documents\visual studio 2017\Projects\ADBMS\ManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+c:\users\shams bin sohrab\documents\visual studio 2017\Projects\ADBMS\ManagementSystem\bin\Newtonsoft.Json.dll
+c:\users\shams bin sohrab\documents\visual studio 2017\Projects\ADBMS\ManagementSystem\bin\System.Web.Helpers.dll
+c:\users\shams bin sohrab\documents\visual studio 2017\Projects\ADBMS\ManagementSystem\bin\System.Web.Mvc.dll
+c:\users\shams bin sohrab\documents\visual studio 2017\Projects\ADBMS\ManagementSystem\bin\System.Web.Optimization.dll
+c:\users\shams bin sohrab\documents\visual studio 2017\Projects\ADBMS\ManagementSystem\bin\System.Web.Razor.dll
+c:\users\shams bin sohrab\documents\visual studio 2017\Projects\ADBMS\ManagementSystem\bin\System.Web.WebPages.Deployment.dll
+c:\users\shams bin sohrab\documents\visual studio 2017\Projects\ADBMS\ManagementSystem\bin\System.Web.WebPages.dll
+c:\users\shams bin sohrab\documents\visual studio 2017\Projects\ADBMS\ManagementSystem\bin\System.Web.WebPages.Razor.dll
+c:\users\shams bin sohrab\documents\visual studio 2017\Projects\ADBMS\ManagementSystem\bin\WebGrease.dll
+c:\users\shams bin sohrab\documents\visual studio 2017\Projects\ADBMS\ManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\shams bin sohrab\documents\visual studio 2017\Projects\ADBMS\ManagementSystem\bin\System.Web.Helpers.xml
+c:\users\shams bin sohrab\documents\visual studio 2017\Projects\ADBMS\ManagementSystem\bin\System.Web.Mvc.xml
+c:\users\shams bin sohrab\documents\visual studio 2017\Projects\ADBMS\ManagementSystem\bin\System.Web.Optimization.xml
+c:\users\shams bin sohrab\documents\visual studio 2017\Projects\ADBMS\ManagementSystem\bin\System.Web.Razor.xml
+c:\users\shams bin sohrab\documents\visual studio 2017\Projects\ADBMS\ManagementSystem\bin\System.Web.WebPages.xml
+c:\users\shams bin sohrab\documents\visual studio 2017\Projects\ADBMS\ManagementSystem\bin\System.Web.WebPages.Deployment.xml
+c:\users\shams bin sohrab\documents\visual studio 2017\Projects\ADBMS\ManagementSystem\bin\System.Web.WebPages.Razor.xml
+c:\users\shams bin sohrab\documents\visual studio 2017\Projects\ADBMS\ManagementSystem\bin\Antlr3.Runtime.pdb
+c:\users\shams bin sohrab\documents\visual studio 2017\Projects\ADBMS\ManagementSystem\bin\Newtonsoft.Json.xml
+c:\users\shams bin sohrab\documents\visual studio 2017\Projects\ADBMS\ManagementSystem\bin\Microsoft.ApplicationInsights.xml
+c:\users\shams bin sohrab\documents\visual studio 2017\Projects\ADBMS\ManagementSystem\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\shams bin sohrab\documents\visual studio 2017\Projects\ADBMS\ManagementSystem\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\shams bin sohrab\documents\visual studio 2017\Projects\ADBMS\ManagementSystem\bin\Microsoft.AI.WindowsServer.xml
+c:\users\shams bin sohrab\documents\visual studio 2017\Projects\ADBMS\ManagementSystem\bin\Microsoft.AI.Web.xml
+c:\users\shams bin sohrab\documents\visual studio 2017\Projects\ADBMS\ManagementSystem\obj\Debug\ManagementSystem.csprojResolveAssemblyReference.cache
+c:\users\shams bin sohrab\documents\visual studio 2017\Projects\ADBMS\ManagementSystem\obj\Debug\ManagementSystem.dll
+c:\users\shams bin sohrab\documents\visual studio 2017\Projects\ADBMS\ManagementSystem\obj\Debug\ManagementSystem.pdb
+C:\Users\Shams Bin Sohrab\Documents\Visual Studio 2017\Projects\ADBMS\ManagementSystem\bin\Oracle.ManagedDataAccess.dll
+F:\Projects\ADBMS\ManagementSystem\bin\ApplicationInsights.config
+F:\Projects\ADBMS\ManagementSystem\bin\roslyn\csc.exe
+F:\Projects\ADBMS\ManagementSystem\bin\roslyn\csc.exe.config
+F:\Projects\ADBMS\ManagementSystem\bin\roslyn\csc.rsp
+F:\Projects\ADBMS\ManagementSystem\bin\roslyn\csi.exe
+F:\Projects\ADBMS\ManagementSystem\bin\roslyn\csi.rsp
+F:\Projects\ADBMS\ManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Projects\ADBMS\ManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Projects\ADBMS\ManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Projects\ADBMS\ManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Projects\ADBMS\ManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Projects\ADBMS\ManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Projects\ADBMS\ManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Projects\ADBMS\ManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Projects\ADBMS\ManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Projects\ADBMS\ManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Projects\ADBMS\ManagementSystem\bin\roslyn\System.AppContext.dll
+F:\Projects\ADBMS\ManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+F:\Projects\ADBMS\ManagementSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Projects\ADBMS\ManagementSystem\bin\roslyn\System.IO.FileSystem.dll
+F:\Projects\ADBMS\ManagementSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Projects\ADBMS\ManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+F:\Projects\ADBMS\ManagementSystem\bin\roslyn\vbc.exe
+F:\Projects\ADBMS\ManagementSystem\bin\roslyn\vbc.exe.config
+F:\Projects\ADBMS\ManagementSystem\bin\roslyn\vbc.rsp
+F:\Projects\ADBMS\ManagementSystem\bin\roslyn\VBCSCompiler.exe
+F:\Projects\ADBMS\ManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+F:\Projects\ADBMS\ManagementSystem\bin\ManagementSystem.dll.config
+F:\Projects\ADBMS\ManagementSystem\bin\ManagementSystem.dll
+F:\Projects\ADBMS\ManagementSystem\bin\ManagementSystem.pdb
+F:\Projects\ADBMS\ManagementSystem\bin\Antlr3.Runtime.dll
+F:\Projects\ADBMS\ManagementSystem\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Projects\ADBMS\ManagementSystem\bin\Microsoft.AI.DependencyCollector.dll
+F:\Projects\ADBMS\ManagementSystem\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Projects\ADBMS\ManagementSystem\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Projects\ADBMS\ManagementSystem\bin\Microsoft.AI.Web.dll
+F:\Projects\ADBMS\ManagementSystem\bin\Microsoft.AI.WindowsServer.dll
+F:\Projects\ADBMS\ManagementSystem\bin\Microsoft.ApplicationInsights.dll
+F:\Projects\ADBMS\ManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Projects\ADBMS\ManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+F:\Projects\ADBMS\ManagementSystem\bin\Newtonsoft.Json.dll
+F:\Projects\ADBMS\ManagementSystem\bin\Oracle.ManagedDataAccess.dll
+F:\Projects\ADBMS\ManagementSystem\bin\System.Web.Helpers.dll
+F:\Projects\ADBMS\ManagementSystem\bin\System.Web.Mvc.dll
+F:\Projects\ADBMS\ManagementSystem\bin\System.Web.Optimization.dll
+F:\Projects\ADBMS\ManagementSystem\bin\System.Web.Razor.dll
+F:\Projects\ADBMS\ManagementSystem\bin\System.Web.WebPages.Deployment.dll
+F:\Projects\ADBMS\ManagementSystem\bin\System.Web.WebPages.dll
+F:\Projects\ADBMS\ManagementSystem\bin\System.Web.WebPages.Razor.dll
+F:\Projects\ADBMS\ManagementSystem\bin\WebGrease.dll
+F:\Projects\ADBMS\ManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Projects\ADBMS\ManagementSystem\bin\System.Web.Helpers.xml
+F:\Projects\ADBMS\ManagementSystem\bin\System.Web.Mvc.xml
+F:\Projects\ADBMS\ManagementSystem\bin\System.Web.Optimization.xml
+F:\Projects\ADBMS\ManagementSystem\bin\System.Web.Razor.xml
+F:\Projects\ADBMS\ManagementSystem\bin\System.Web.WebPages.xml
+F:\Projects\ADBMS\ManagementSystem\bin\System.Web.WebPages.Deployment.xml
+F:\Projects\ADBMS\ManagementSystem\bin\System.Web.WebPages.Razor.xml
+F:\Projects\ADBMS\ManagementSystem\bin\Antlr3.Runtime.pdb
+F:\Projects\ADBMS\ManagementSystem\bin\Newtonsoft.Json.xml
+F:\Projects\ADBMS\ManagementSystem\bin\Microsoft.ApplicationInsights.xml
+F:\Projects\ADBMS\ManagementSystem\bin\Microsoft.AI.DependencyCollector.xml
+F:\Projects\ADBMS\ManagementSystem\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Projects\ADBMS\ManagementSystem\bin\Microsoft.AI.WindowsServer.xml
+F:\Projects\ADBMS\ManagementSystem\bin\Microsoft.AI.Web.xml
+F:\Projects\ADBMS\ManagementSystem\obj\Debug\ManagementSystem.csprojAssemblyReference.cache
+F:\Projects\ADBMS\ManagementSystem\obj\Debug\ManagementSystem.csproj.CoreCompileInputs.cache
+F:\Projects\ADBMS\ManagementSystem\obj\Debug\ManagementSystem.csproj.CopyComplete
+F:\Projects\ADBMS\ManagementSystem\obj\Debug\ManagementSystem.dll
+F:\Projects\ADBMS\ManagementSystem\obj\Debug\ManagementSystem.pdb
